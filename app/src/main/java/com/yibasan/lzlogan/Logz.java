@@ -18,7 +18,7 @@ import static java.util.Collections.unmodifiableList;
 /**
  * Author : Create by Linxinyuan on 2018/08/02
  * Email : linxinyuan@lizhi.fm
- * Desc : 日志输出工具类//git
+ * Desc : 日志输出工具类//git-develop
  */
 public final class Logz {
 
